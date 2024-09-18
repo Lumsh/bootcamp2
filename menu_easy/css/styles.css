@@ -1,0 +1,39 @@
+*{
+
+    box-sizing: border-box;
+}
+
+
+.test {
+    height: 59px;
+    width: 59px;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+
+
+}
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+
+
+}
+
+.box1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 300px;
+    background-color: rgb(243, 241, 241);
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+
+}
